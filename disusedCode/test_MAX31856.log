@@ -1,0 +1,107 @@
+2019-09-29 20:43:39,163 - __main__ - DEBUG - test_get_internal_temperature_reading()
+2019-09-29 20:43:39,189 - Adafruit_MAX31856.MAX31856 - DEBUG - Using hardware SPI
+2019-09-29 20:43:39,195 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x80, Value 0x80
+2019-09-29 20:43:39,200 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x81, Value 0x07
+2019-09-29 20:43:39,204 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0B, Raw Value: 0x00
+2019-09-29 20:43:39,209 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0A, Raw Value: 0x00
+2019-09-29 20:43:39,214 - Adafruit_MAX31856.MAX31856 - DEBUG - Cold Junction Temperature 0.0 deg. C
+2019-09-29 20:49:29,936 - Adafruit_MAX31856.MAX31856 - DEBUG - Using hardware SPI
+2019-09-29 20:50:57,082 - Adafruit_MAX31856.MAX31856 - DEBUG - Using hardware SPI
+2019-09-29 20:50:57,085 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x80, Value 0x80
+2019-09-29 20:50:57,087 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x81, Value 0x07
+2020-08-27 03:22:27,458 - __main__ - DEBUG - test_get_internal_temperature_reading()
+2020-08-27 03:22:27,471 - Adafruit_MAX31856.MAX31856 - DEBUG - Using hardware SPI
+2020-08-27 03:22:27,474 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x80, Value 0x80
+2020-08-27 03:22:27,476 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x81, Value 0x07
+2020-08-27 03:22:27,478 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0B, Raw Value: 0x80
+2020-08-27 03:22:27,479 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0A, Raw Value: 0x1A
+2020-08-27 03:22:27,481 - Adafruit_MAX31856.MAX31856 - DEBUG - Cold Junction Temperature 26.5 deg. C
+2020-08-27 03:22:27,485 - __main__ - DEBUG - test_get_internal_temperature_reading()
+2020-08-27 03:22:27,488 - Adafruit_MAX31856.MAX31856 - DEBUG - Using hardware SPI
+2020-08-27 03:22:27,491 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x80, Value 0x80
+2020-08-27 03:22:27,493 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x81, Value 0x03
+2020-08-27 03:22:27,495 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0B, Raw Value: 0x84
+2020-08-27 03:22:27,497 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0A, Raw Value: 0x1A
+2020-08-27 03:22:27,498 - Adafruit_MAX31856.MAX31856 - DEBUG - Cold Junction Temperature 26.515625 deg. C
+2020-08-27 03:22:27,510 - __main__ - DEBUG - test_get_register_reading()
+2020-08-27 03:22:27,512 - Adafruit_MAX31856.MAX31856 - DEBUG - Using hardware SPI
+2020-08-27 03:22:27,514 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x80, Value 0x80
+2020-08-27 03:22:27,516 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x81, Value 0x07
+2020-08-27 03:22:27,518 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x00, Raw Value: 0x80
+2020-08-27 03:22:27,521 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x00, Raw Value: 0x80
+2020-08-27 03:22:27,523 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x01, Raw Value: 0x07
+2020-08-27 03:22:27,525 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x02, Raw Value: 0xFF
+2020-08-27 03:22:27,527 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x03, Raw Value: 0x7F
+2020-08-27 03:22:27,529 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x04, Raw Value: 0xC0
+2020-08-27 03:22:27,531 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x05, Raw Value: 0x7F
+2020-08-27 03:22:27,533 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x06, Raw Value: 0xFF
+2020-08-27 03:22:27,535 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x07, Raw Value: 0x80
+2020-08-27 03:22:27,537 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x08, Raw Value: 0x00
+2020-08-27 03:22:27,539 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x09, Raw Value: 0x00
+2020-08-27 03:22:27,541 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0A, Raw Value: 0x1A
+2020-08-27 03:22:27,543 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0B, Raw Value: 0x84
+2020-08-27 03:22:27,545 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0C, Raw Value: 0x4E
+2020-08-27 03:22:27,547 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0D, Raw Value: 0x39
+2020-08-27 03:22:27,549 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0E, Raw Value: 0x20
+2020-08-27 03:22:27,551 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0F, Raw Value: 0x00
+2020-08-27 03:22:27,555 - __main__ - DEBUG - test_get_temperaure_reading
+2020-08-27 03:22:27,557 - Adafruit_MAX31856.MAX31856 - DEBUG - Using hardware SPI
+2020-08-27 03:22:27,560 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x80, Value 0x80
+2020-08-27 03:22:27,562 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x81, Value 0x07
+2020-08-27 03:22:27,564 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0E, Raw Value: 0x20
+2020-08-27 03:22:27,566 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0D, Raw Value: 0x39
+2020-08-27 03:22:27,568 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0C, Raw Value: 0x4E
+2020-08-27 03:22:27,570 - Adafruit_MAX31856.MAX31856 - DEBUG - Thermocouple Temperature 1251.5703125 deg. C
+2020-08-27 03:22:27,575 - __main__ - DEBUG - test_hardware_SPI_initialize()
+2020-08-27 03:22:27,577 - Adafruit_MAX31856.MAX31856 - DEBUG - Using hardware SPI
+2020-08-27 03:22:27,579 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x80, Value 0x80
+2020-08-27 03:22:27,581 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x81, Value 0x07
+2020-08-27 03:22:27,586 - __main__ - DEBUG - test_temperature_byte_conversions()
+2022-07-31 16:47:05,094 - __main__ - DEBUG - test_get_internal_temperature_reading()
+2022-07-31 16:47:05,114 - Adafruit_MAX31856.MAX31856 - DEBUG - Using hardware SPI
+2022-07-31 16:47:05,116 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x80, Value 0x80
+2022-07-31 16:47:05,118 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x81, Value 0x07
+2022-07-31 16:47:05,120 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0B, Raw Value: 0x00
+2022-07-31 16:47:05,123 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0A, Raw Value: 0x00
+2022-07-31 16:47:05,125 - Adafruit_MAX31856.MAX31856 - DEBUG - Cold Junction Temperature 0.0 deg. C
+2022-07-31 16:47:05,134 - __main__ - DEBUG - test_get_internal_temperature_reading()
+2022-07-31 16:47:05,137 - Adafruit_MAX31856.MAX31856 - DEBUG - Using hardware SPI
+2022-07-31 16:47:05,139 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x80, Value 0x80
+2022-07-31 16:47:05,141 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x81, Value 0x03
+2022-07-31 16:47:05,144 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0B, Raw Value: 0x00
+2022-07-31 16:47:05,146 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0A, Raw Value: 0x00
+2022-07-31 16:47:05,148 - Adafruit_MAX31856.MAX31856 - DEBUG - Cold Junction Temperature 0.0 deg. C
+2022-07-31 16:47:05,158 - __main__ - DEBUG - test_get_register_reading()
+2022-07-31 16:47:05,160 - Adafruit_MAX31856.MAX31856 - DEBUG - Using hardware SPI
+2022-07-31 16:47:05,163 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x80, Value 0x80
+2022-07-31 16:47:05,166 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x81, Value 0x07
+2022-07-31 16:47:05,168 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x00, Raw Value: 0x80
+2022-07-31 16:47:05,170 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x00, Raw Value: 0x80
+2022-07-31 16:47:05,172 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x01, Raw Value: 0x07
+2022-07-31 16:47:05,174 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x02, Raw Value: 0xFF
+2022-07-31 16:47:05,177 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x03, Raw Value: 0x7F
+2022-07-31 16:47:05,179 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x04, Raw Value: 0xC0
+2022-07-31 16:47:05,181 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x05, Raw Value: 0x7F
+2022-07-31 16:47:05,183 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x06, Raw Value: 0xFF
+2022-07-31 16:47:05,185 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x07, Raw Value: 0x80
+2022-07-31 16:47:05,188 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x08, Raw Value: 0x00
+2022-07-31 16:47:05,190 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x09, Raw Value: 0x00
+2022-07-31 16:47:05,192 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0A, Raw Value: 0x00
+2022-07-31 16:47:05,194 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0B, Raw Value: 0x00
+2022-07-31 16:47:05,196 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0C, Raw Value: 0x00
+2022-07-31 16:47:05,199 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0D, Raw Value: 0x00
+2022-07-31 16:47:05,201 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0E, Raw Value: 0x00
+2022-07-31 16:47:05,203 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0F, Raw Value: 0x00
+2022-07-31 16:47:05,207 - __main__ - DEBUG - test_get_temperaure_reading
+2022-07-31 16:47:05,210 - Adafruit_MAX31856.MAX31856 - DEBUG - Using hardware SPI
+2022-07-31 16:47:05,212 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x80, Value 0x80
+2022-07-31 16:47:05,214 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x81, Value 0x07
+2022-07-31 16:47:05,216 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0E, Raw Value: 0x00
+2022-07-31 16:47:05,218 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0D, Raw Value: 0x00
+2022-07-31 16:47:05,222 - Adafruit_MAX31856.MAX31856 - DEBUG - Read Register: 0x0C, Raw Value: 0x00
+2022-07-31 16:47:05,223 - Adafruit_MAX31856.MAX31856 - DEBUG - Thermocouple Temperature 0.0 deg. C
+2022-07-31 16:47:05,229 - __main__ - DEBUG - test_hardware_SPI_initialize()
+2022-07-31 16:47:05,232 - Adafruit_MAX31856.MAX31856 - DEBUG - Using hardware SPI
+2022-07-31 16:47:05,234 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x80, Value 0x80
+2022-07-31 16:47:05,236 - Adafruit_MAX31856.MAX31856 - DEBUG - Wrote Register: 0x81, Value 0x07
+2022-07-31 16:47:05,240 - __main__ - DEBUG - test_temperature_byte_conversions()
