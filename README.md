@@ -9,4 +9,11 @@ We use a Raspberry Pi W to acquire data from our coffee roaster over WiFi using 
 Also of note is that we have an I2C temp/humidity sensor that is also disused which we had intended to use as an ambient conditions sensor.  It is disabled because there seems to be no way in Artisan to set it up as a 'one shot' measurement if used under modbus--we'd need to query it each time we read the temp. 
 
 
+To eliminate an annoying command line prompt for SU password upon program start, I uncommented this line from /etc/sudoers
+
+# Allow members of group sudo to execute any command
+sudo    ALL=(ALL:ALL) ALL
+or maybe
+phil  ALL=(ALL:ALL) NOPASSWD: /usr/bin/pigpiod
+
 
