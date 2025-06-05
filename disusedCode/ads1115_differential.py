@@ -43,4 +43,8 @@ while True:
     # precision, ADS1015 = 12-bit or ADS1115 = 16-bit).
     print('Channel 0 minus 1: {0}'.format(value))
     # Pause for half a second.
+<<<<<<< HEAD
     time.sleep(0.5)
+=======
+    time.sleep(0.5)
+>>>>>>> origin/addFansAndMotorAD
