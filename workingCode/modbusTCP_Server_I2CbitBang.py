@@ -50,7 +50,8 @@ def i2c_init():
 	time.sleep(0.01)
 
 	try:
-		#init i2c 
+		#init i2c
+	
 		handler.bb_i2c_open(SDA, SCL, 50000)
 		print("BitBang handler opened on pins",SDA, SCL)
 		return 0
